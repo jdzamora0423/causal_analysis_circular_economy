@@ -1,0 +1,29 @@
+country,total_material_flow,biomass_material_flow,metal_ores_material_flow,non_metal_minerals_material_flow,fossil_energy
+European Union - 27 countries (from 2020),"41,388","28,238","6,978","4,872","1,300"
+Belgium,"12,979","4,217","6,260","2,079",422
+Bulgaria,661,:,:,:,:
+Czechia,"2,723",922,706,850,244
+Denmark,"3,957","2,949",664,158,185
+Germany (until 1990 former territory of the FRG),"21,733","11,304","6,924","2,646",858
+Estonia,295,:,:,:,:
+Ireland,"2,814","2,166",17,581,50
+Greece,"2,088",870,"1,048",98,71
+Spain,"12,618","6,507","4,853",979,279
+France,"11,070","6,761","2,031","1,958",320
+Croatia,"1,636",549,369,692,26
+Italy,"12,284","4,021","7,533",441,288
+Cyprus,273,230,0,4,38
+Latvia,835,:,:,:,:
+Lithuania,"1,219",:,:,:,:
+Luxembourg,"3,646",102,"2,374","1,158",12
+Hungary,"2,035","1,251",204,467,114
+Malta,16,:,:,:,:
+Netherlands,"17,904","10,233","4,444","2,246",980
+Austria,"5,544","3,087","1,765",396,297
+Poland,"6,296","4,096","1,096",714,389
+Portugal,"2,224",412,"1,253",464,94
+Romania,"1,575",797,272,385,121
+Slovenia,"2,394","1,251",821,202,120
+Slovakia,"1,266",503,373,334,56
+Finland,944,773,51,98,22
+Sweden,"2,014","1,098",474,295,148
