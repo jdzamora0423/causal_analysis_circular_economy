@@ -1,4 +1,4 @@
-This is part of my master thesis entitled "Unraveling Circular Pathways: Using Causal Machine Learning in Exploring Causal Relationships for Sustainable Economies"
+This is part of my master thesis entitled "Unraveling Circular Pathways: Using Causal Machine Learning in Exploring Causal Relationships for Sustainable Economies", a omprehensive research utilizing causal machine learning to investigate intricate causal relationships among key variables in the context of circular economy, which can be a useful tool especially for policy makers in creating data-driven decision making for policies regarding sustainable development.
 
 ## Discussion
 
